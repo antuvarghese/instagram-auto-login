@@ -1,6 +1,6 @@
 from selenium import webdriver
 import time
-with open("name.txt", "r") as f:
+with open("wordlist.txt", "r") as f:
     for x in f:
         a = x.split()[0]
         a = a.split(":")
