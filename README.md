@@ -11,5 +11,9 @@ chrome
 3.place chromedriver.exe in the same folder (you can download depending on your browser)
 4.run (python3 autologin_instagram.py)
 
+#wordlist
+It is a text file with username and password.Here it is only a demo.You can customize and replace it with your credentials.
+Clear the text file and add your values.
+
 Note:THIS IS ONLY FOR EDUCATIONAL PURPOSE.DON'T MISUSE IT!
 
