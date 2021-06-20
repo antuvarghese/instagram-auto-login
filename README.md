@@ -1,5 +1,7 @@
 # instagram-auto-login
 This is a python code for instagram auto login with a wordlist.It is written with the help of selenium.
+# PLATFORM
+Windows 7,8,10
 # REQUIREMENTS
 Python3 (Recommended:latest)
 selenium
